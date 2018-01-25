@@ -1,0 +1,11 @@
+{
+  "name": "pam",
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "designs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
